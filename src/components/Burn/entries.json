@@ -1,0 +1,44 @@
+[
+    {
+        "key": "irlPass",
+        "name": "IRL Pass",
+        "quantity": 1,
+        "address": "0x92AA4c9A4f54Fe95d0e799687D1Da12A7EBca538"
+    },
+    {
+        "key": "metaPass",
+        "name": "Metaverse Pass",
+        "quantity": 1,
+        "address": "0x22674fd4ce74765c211eec01698fda36f57a650a"
+    },
+    {
+        "key": "papp",
+        "name": "PAPP",
+        "quantity": 2,
+        "address": "0xC8E1de8Dc39a758C7a50F659b53F787e0F1398BD"
+    },
+    {
+        "key": "psilocybin",
+        "name": "Psilocybin",
+        "quantity": 3,
+        "address": "0x11ca9693156929EE2e7E1470C5E1A55b413e9007"
+    },
+    {
+        "key": "c1",
+        "name": "C1",
+        "quantity": 3,
+        "address": "0x5501024dDb740266Fa0d69d19809EC86dB5E3f8b"
+    },
+    {
+        "key": "c2",
+        "name": "C2",
+        "quantity": 5,
+        "address": "0xA7B6cb932EEcACd956454317d59c49AA317e3C57"
+    },
+    {
+        "key": "c3",
+        "name": "C3",
+        "quantity": 3,
+        "address": "0xc8Cc20febE260C62A9717534442D4E499F9DE741"
+    }
+]
